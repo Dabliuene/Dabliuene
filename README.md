@@ -1,6 +1,6 @@
 <h2>👋 Olá, meu nome é Nathan, sou desenvolvedor Full Stack apaixonado por tecnologia! </h2>
 
-> Perfil em desenvolvimento! 🛠️
+> Perfil em construção! 🛠️
 
 <h2> 🧰&nbsp;Tecnologias: </h2>
 
