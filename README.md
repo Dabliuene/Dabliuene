@@ -14,3 +14,5 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"/>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dabliuene&layout=compact)](https://github.com/Dabliuene/github-readme-stats)
+![Snake animation](https://github.com/Dabliuene/Dabliuene/blob/output/github-contribution-grid-snake.svg)
+
