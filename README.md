@@ -1,4 +1,4 @@
-<h2>👋 Olá, meu nome é Nathan, sou desenvolvedor e apaixonado por tecnologia 🕹️! </h2>
+<h2>👋 Olá, meu nome é Nathan, sou desenvolvedor e apaixonado por tecnologia! 🕹️ </h2>
 
 > Perfil em construção! 🛠️
 
@@ -25,6 +25,3 @@
   
 <h3>⚙️ &nbsp;Back-end</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"/>
-  
-![Snake animation](https://github.com/dabliuene/dabliuene/blob/output/github-contribution-grid-snake.svg)
-
