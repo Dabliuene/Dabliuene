@@ -12,7 +12,5 @@
 
 <h3>⚙️ &nbsp;Back-end</h3>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30"/>
-
-<h3>📚 Aprendendo:
- </br>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="30" height="30"/>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dabliuene&layout=compact)](https://github.com/Dabliuene/github-readme-stats)
