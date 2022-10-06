@@ -3,7 +3,7 @@
 > Perfil em construção! 🛠️
 
 - 🔭 Hoje trabalho com front-end. Mas estou aprendendo a utilizar tecnologias back-end
-- 📚 Apredendo TypesScript, MongoDB e Node.js
+- 📚 Aprendendo Typescript, MongoDB e Node.js
 
 <h2> 🧰&nbsp;Tecnologias: </h2>
 
